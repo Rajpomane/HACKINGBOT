@@ -81,7 +81,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-    ʜᴇʟʟᴏ *{}* !
+    *ʜᴇʟʟᴏ* {} ,🥀
     ━━━━━━━ 𝗝𝝙𝗬 ━━━━━━━━━ 
     [ᴜᴛᴏᴘɪᴀɴ](https://te.legra.ph/file/eeda89b69864abd3b0f40.jpg) ʀᴏʙᴏᴛ ɪꜱ ᴀ  
     ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ  
