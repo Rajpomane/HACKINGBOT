@@ -26,7 +26,11 @@
 
 ═══════════════════
  ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑 
-═══════════════════
+══════════════════
+<!-- ### Hi there 👋
+<!--
+𝗥𝗮𝗷𝗽𝗼𝗺𝗮𝗻𝗲/𝗥𝗮𝗷𝗽𝗼𝗺𝗮𝗻𝗲 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
 <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&width=420&lines=The+easiest+way+to+deploy+this+bot⚡;Managed+by+ROYALRAJPUT%E2%9D%A4%EF%B8%8F"> 
  </p>
 
