@@ -34,6 +34,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA500&multiline=true&width=550&height=200&lines=HEY+BABY++%E2%9C%A8++;I'M+Rajpomane+RAJPUT+FROM+UP%2CINDIA+%F0%9F%92%AB;I'M+PURSING+MY+BTECHCS%F0%9F%8E%93;MY+INTREST+IS+IN+WEB+DEVELOPEMENT;AND+I+HAVE+COMPLECTED+C/C++%2CHTML%2CCSS+FROM+GOOGLE+)](https://git.io/typing-svg)
  
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
