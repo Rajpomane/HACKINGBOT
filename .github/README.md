@@ -50,5 +50,5 @@
 
 
 
-### ❤️ Get STRING_SESSION from below:
+-❤️ Get STRING_SESSION from below:
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BATTERY_ABOUT_TO_DAI_ERROR/String-Session-Generator) ``Pyrogram``
