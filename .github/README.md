@@ -40,7 +40,7 @@
 
  <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/Rajpomane/count.svg"><br>
 
-<h1> <img src = "https://github.com/Rajpomane/Rajpomane/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img src = "https://github.com/Rajpomane/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
   
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
