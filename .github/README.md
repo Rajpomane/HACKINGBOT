@@ -45,6 +45,6 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
-- [ᴅᴇᴠɪʟ](https://t.me/HACKER_XD_BOT_07_BOT)
+- [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
+- [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
 
