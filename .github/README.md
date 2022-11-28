@@ -32,7 +32,13 @@
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
 
+<p align="center">
+<a href="https://t.me/BATTERY_ABOUT_TO_DAI_ERROR"><img src="https://img.shields.io/badge/-Support%20owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
+<details>
+<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
+<br>
 
 -❤️ Get STRING_SESSION from below:
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BATTERY_ABOUT_TO_DAI_ERROR/String-Session-Generator) ``Pyrogram``
