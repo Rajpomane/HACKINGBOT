@@ -29,6 +29,9 @@
 ═══════════════════
  ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑 
 ═══════════════════
+<img src="https://readme-typing-svg.herokuapp.com?color=FFA500&width=420&lines=The+easiest+way+to+deploy+this+bot⚡;Managed+by+ROYALRAJPUT%E2%9D%A4%EF%B8%8F"> 
+ </p>
+
 <p align="center">
 <a href="https://telegram.me/freinds_hindi_chatting_group_126"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
