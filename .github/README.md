@@ -27,6 +27,10 @@
 ═══════════════════
  ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑 
 ══════════════════
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1> <img src="https://github.com/Rajpomane/Rajpomane/blob/main/resources/codes.webp" width="70px">ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪꜱ ɪꜱ ʀᴀᴊᴘᴏᴍᴀɴᴇ
+
+ </h1><p align="center">
 
 
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
