@@ -12,13 +12,16 @@ from FallenRobot.events import register
 PHOTO = [
     "https://telegra.ph/file/4e145e0da2e5806146ab3.mp4",
     "https://telegra.ph/file/ddc27d77efaeaf57d2818.jpg",
+    "https://graph.org/file/58c9edff79ed6831c05a8.jpg",
+
 ]
+
 
 
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [Ξ✘𝙋𝞡𝙍𝙏_𝙂𝚫𝘽𝘽𝚫𝙍](https://t.me/{OWNER_USERNAME})** \n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑](https://t.me/{OWNER_USERNAME})** \n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
