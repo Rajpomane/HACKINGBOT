@@ -1,7 +1,7 @@
 {
-      "name": "Utopian Robot",
+      "name": "✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/c3ea58863109c255d9818.jpg",
+      "logo": "https://graph.org/file/58c9edff79ed6831c05a8.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/MrProgrammer72/UtopianRobot",
+   "repository": "https://github.com/Rajpomane/royalrajput-",
    "addons": [
       {
          "options": {
@@ -42,7 +42,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1356469s75"
+         "value": "2063083084"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -54,7 +54,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "export_gabbar"
+         "value": "BATTERY_ABOUT_TO_DAI_ERROR"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
@@ -141,7 +141,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
          "required": false,
-         "value": "https://t.me/export_gabbar"
+         "value": "https://t.me/BATTERY_ABOUT_TO_DAI_ERROR"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
