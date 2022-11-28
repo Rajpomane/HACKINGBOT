@@ -31,6 +31,13 @@
 
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
+<p align="center">
+<a href="https://telegram.me/freinds_hindi_chatting_group_126"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/attiudedp"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
 <p align="center">
 <a href="https://t.me/BATTERY_ABOUT_TO_DAI_ERROR"><img src="https://img.shields.io/badge/-Support%20owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
