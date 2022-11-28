@@ -40,3 +40,11 @@
 <p align="center">
 <a href="https://t.me/BATTERY_ABOUT_TO_DAI_ERROR"><img src="https://img.shields.io/badge/-Support%20owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+<details>
+<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
+<br>
+
+- [ᴍᴜᴋᴜ](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
+- [ᴅᴇᴠɪʟ](https://t.me/HACKER_XD_BOT_07_BOT)
+
