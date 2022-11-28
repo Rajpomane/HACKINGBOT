@@ -38,6 +38,9 @@
 
 <p align="middle"><a href="https://github.com/Rajpomane"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"></a>
 
+ <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/Rajpomane/count.svg"><br>
+
+  
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
 <p align="center">
