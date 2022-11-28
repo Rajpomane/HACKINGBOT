@@ -32,18 +32,9 @@
 
  </h1><p align="center">
 
- 
- 
- 
- 
- 
-
-
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA500&multiline=true&width=550&height=200&lines=HEY+BABY++%E2%9C%A8++;I'M+Rajpomane+RAJPUT+FROM+UP%2CINDIA+%F0%9F%92%AB;I'M+PURSING+MY+BTECHCS%F0%9F%8E%93;MY+INTREST+IS+IN+WEB+DEVELOPEMENT;AND+I+HAVE+COMPLECTED+C/C++%2CHTML%2CCSS+FROM+GOOGLE+)](https://git.io/typing-svg)
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 
 
 <p align="middle"><a href="https://github.com/Rajpomane"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"></a>
@@ -63,7 +54,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajpomane &show_icons=true&locale=en&layout=compact" alt="Rajpomane" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajpomane &show_icons=true&locale=en&layout=compact" alt="Rajpomane"/></p>
  
  <p><img align="center" src="https://te.legra.ph/file/2d22300f528a89139fbad.jpg"></p>
 
