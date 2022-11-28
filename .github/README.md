@@ -41,7 +41,8 @@
  <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/Rajpomane/count.svg"><br>
 
 <h1> <img src = "https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
-
+ 
+[<img src="https://github-readme-stats.vercel.app/api?username=Rajpomane &&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/Rajpomane)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpomane &theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/Rajpomane)
   
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
