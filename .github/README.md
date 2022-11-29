@@ -57,8 +57,8 @@
 p><img align="center" src="https://graph.org/file/3d35f5135963d18c52dae.jpg"></p>
 
 
-- [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
-- [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
+- [𝗥𝗢𝗬𝗔𝗟𝗥𝗔𝗝𝗣𝗨𝗧](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
+- [𝗛𝗔𝗖𝗞𝗘𝗥𝗛𝗘𝗔𝗥𝗧](https://t.me/HACKER_XD_BOT_07_BOT)
 <p align="center">
 <a href="https://telegram.me/freinds_hindi_chatting_group_126"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
