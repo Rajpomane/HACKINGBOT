@@ -52,7 +52,8 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajpomane &show_icons=true&locale=en&layout=compact" alt="Rajpomane"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrProgrammer72&show_icons=true&locale=en&layout=compact" alt="MrProgrammer72" /></p>
+ 
 
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
