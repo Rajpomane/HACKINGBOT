@@ -54,6 +54,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrProgrammer72&show_icons=true&locale=en&layout=compact" alt="MrProgrammer72" /></p>
  
+p><img align="center" src="https://graph.org/file/3d35f5135963d18c52dae.jpg"></p>
+
 
 - [RAJPUT](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR)
 - [HACKER](https://t.me/HACKER_XD_BOT_07_BOT)
