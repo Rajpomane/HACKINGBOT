@@ -68,7 +68,7 @@ p><img align="center" src="https://graph.org/file/3d35f5135963d18c52dae.jpg"></p
 </p>
 
 <p align="center">
-<a href="https://t.me/BATTERY_ABOUT_TO_DAI_ERROR"><img src="https://img.shields.io/badge/-Support%20owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https:/t.me/BATTERY_ABOUT_TO_DAI_ERROR"><img src="https://img.shields.io/badge/-Support%20owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <details>
