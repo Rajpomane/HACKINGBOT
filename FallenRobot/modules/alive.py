@@ -11,17 +11,16 @@ from FallenRobot.events import register
 
 PHOTO = [
     "https://telegra.ph/file/4e145e0da2e5806146ab3.mp4",
-    "https://telegra.ph/file/ddc27d77efaeaf57d2818.jpg",
-    "https://graph.org/file/58c9edff79ed6831c05a8.jpg",
-
+    "https://telegra.ph//file/b5c9d15d1910aa8704e49.jpg",
+    "https://telegra.ph//file/20f0125c1d2d6d4936066.mp4",
+    "https://telegra.ph//file/87555787817294c04c5ae.jpg",
+    "https://telegra.ph//file/839218d66895b355fee1f.jpg",
 ]
-
-
 
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑](https://t.me/{OWNER_USERNAME})** \n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [『𝗣𝗢𝗜𝗦𝗘𝗡』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ𝐃αиgєяουѕ𓄂⃝🔱𝐅ιgнτєя](https://t.me/{OWNER_USERNAME})** \n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
