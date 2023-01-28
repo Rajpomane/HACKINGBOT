@@ -80,8 +80,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """
-    *ʜᴇʟʟᴏ* {} ,🥀
+PM_START_TEXT =
     ━━━━━━━ 👿 BAD HACKER 😈 ━━━━━━━━━ 
     [ᴜᴛᴏᴘɪᴀɴ](https://graph.org/file/3d35f5135963d18c52dae.jpg) ʀᴏʙᴏᴛ ɪꜱ ᴀ  
     ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ  
