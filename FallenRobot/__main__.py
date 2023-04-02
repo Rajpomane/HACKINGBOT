@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
    
-    *ʜᴇʏ* {},[🥀](https://telegra.ph//file/87555787817294c04c5ae.jpg) 
+    *ʜᴇʏ* {},[🥀](https://te.legra.ph/file/f272a9daec063f74630f6.jpg) 
   
  *๏ ᴛʜɪs ɪs* {} ! 
  ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs. 
@@ -95,20 +95,20 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ 😭",
+            text="ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ 🚩",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs 🥵", callback_data="help_back"),
+        InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs 🚩", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="fallen_"),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🚩❄ ᴀʙᴏᴜᴛ ❄🚩", callback_data="fallen_"),
+        InlineKeyboardButton(text="🚩 sᴜᴩᴩᴏʀᴛ 🚩", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", callback_data="source_"),
+        InlineKeyboardButton(text="🚩 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🚩", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🚩 sᴏᴜʀᴄᴇ 🚩", callback_data="source_"),
     ],
 ]
 
@@ -124,7 +124,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴅᴇᴠᴇʟᴏᴩᴇʀ](https://t.me/BATTERY_ABOUT_TO_DAI_ERROR) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ](https://t.me/freinds_hindi_chatting_group_126) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴅᴇᴠᴇʟᴏᴩᴇʀ](https://t.me/I_LOVE_YOU_PAGAL) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ](https://t.me/LOVERS_POINTT) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
